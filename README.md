@@ -1,0 +1,2 @@
+# FigureBed
+licxWiZ图床
